@@ -1,4 +1,5 @@
 ![Complete](https://img.shields.io/azure-devops/coverage/swellaby/opensource/25.svg)
+![Python](https://img.shields.io/pypi/pyversions/Django.svg)
 # Diabetic Patient Re-admission Prediction
 **Predicting re-admission of patient**
 
