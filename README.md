@@ -1,3 +1,4 @@
+![Complete](https://img.shields.io/azure-devops/coverage/swellaby/opensource/25.svg)
 # Diabetic Patient Re-admission Prediction
 **Predicting re-admission of patient**
 
